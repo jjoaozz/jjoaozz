@@ -1,21 +1,31 @@
-## Olá 👋
-
-### Quem sou seu?
-Meu nome é Teste e trabalho progamando.
-- 😄 Pronomes: Ele/Dele
-- 🌱 Atualemnte aprendendo: Git
-- 💬 Fale comigo sobre: READMEs
-- ⚡ Fato divertido: Sou dono de uma lavanderia
-
-## Tecnologias com as quais estou trabalhando atualmente
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45px" />
-
-
-## Tecnologias que já tive contato
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45px" />
-
-## Status
-[![Status do perfil Teste](https://github-readme-stats.vercel.app/api?username=jjoaozz&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaozz&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="right">🌐 Idioma: 
+  <a href="./README.md">ENG</a> /
+  <a href="./README.ptbr.md">PT-BR</a>
+</p>
+<div align="center">
+  <div>
+    <img src="./github-header-banner-PTBR.png">
+    <h3>Tenho 18 anos e atualmente estou estudando desenvolvimento web. 💻🚀</h3>
+    <p>Aluno da <a href="https://www.formacao.dev/" target="_blank">Formação DEV da Cod3r</a></p>
+  </div>
+  <div>
+    <h2>🛠️ Tecnologias Aprendidas</h2>
+    <h3>Front-End</h3>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <br>
+    <h3>Back-End</h3>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+    <br>
+    <h3>Ferramentas</h3>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <br><br>
+    <h2>📖 Tecnologias que vou aprender em breve</h2>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+    <a href="https://github.com/MuriloCamargo12/MuriloCamargo12/blob/main/README.ptbr.md"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
+  </div>
+</div>
