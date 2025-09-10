@@ -16,4 +16,6 @@ Meu nome é Teste e trabalho progamando.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" width="45px" />
 
 ## Status
-[![Status do perfil Teste](https://github-readme-stats.vercel.app/api?username=jjoaozz)](https://github.com/anuraghazra/github-readme-stats)
+[![Status do perfil Teste](https://github-readme-stats.vercel.app/api?username=jjoaozz&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoaozz&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
