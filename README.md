@@ -5,7 +5,7 @@
 <div align="center">
   <div>
     <img src="./github-header-banner-PTBR.png">
-    <h3>Tenho 18 anos e atualmente estou estudando desenvolvimento web. 💻🚀</h3>
+    <h3>Sou o João, tenho 18 anos e atualmente estou estudando desenvolvimento web. 💻🚀</h3>
     <p>Aluno da <a href="https://www.formacao.dev/" target="_blank">Formação DEV da Cod3r</a></p>
   </div>
   <div>
