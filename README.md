@@ -7,8 +7,17 @@ Meu nome é Teste e trabalho progamando.
 - 💬 Fale comigo sobre: READMEs
 - ⚡ Fato divertido: Sou dono de uma lavanderia
 
-## Trabalho com
+## Trabalho com 
 - CSS
 - HTML
 - Javascript
 - React
+
+## Tecnologias com as quais estou trabalhando atualmente
+- CSS
+- HTML
+- Javascript
+- React
+
+## Tecnologias que já estudei
+- C++
